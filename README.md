@@ -15,3 +15,6 @@ StreetRep was inspired by the social bulletin application Yik-Yak where users ca
 StreetRep allows users to express their opinions in the form of text at their current position on the map. Other users can view posts around their area by looking at their respective maps. This way users are aware of how many other are in there area and are up to date with new events and activities. Each post by a user will be able to be voted positively or negatively, which will contribute to the user's reputation. Users with more reputation will gain benefits such as longer post lifespan, and less delays between posts. Users with lower reputation will have opposite effects until they can increase their reputation. This is a preventative measure against bots and malicious users.
 
 Devpost page: http://devpost.com/software/streetrep
+
+For more information on the ShoutR, the node js API that acts as the backend for the application, go here:  
+https://github.com/harman666666/ShoutR
